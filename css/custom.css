@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'arvo';
+    src:url('/fonts/Arvo-Bold.ttf');
+}
+html{
+    font-family: 'arvo' !important;
+}
+.cuicon{
+    font-size:20px !important;
+}
+.foicon{
+    font-size:12px !important;
+    color:#FF6666;
+}
+.codefmt{
+    border:1px solid;
+    background:#ccc;
+}
+.py4 {
+	padding-top: 2rem !important;
+	padding-bottom: 2rem !important;
+}
+.more a{
+    color:#FF6666 !important;
+    text-decoration: none;
+}
+
+
+#header #nav ul li.icon {
+    top: 45px !important;
+    right: -1rem !important;
+}
+
+#header #nav ul a {
+	color: #FF6666 !important;
+}
+
+body .h1 {
+    color: #FF6666 !important;
+}
+
+.footlink{
+    color:#FF6666 !important;
+    text-decoration:none !important;
+}
+
+footer{
+    font-size:12px !important;
+}
