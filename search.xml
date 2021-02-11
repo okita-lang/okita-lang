@@ -5,6 +5,19 @@
     
     <entry>
       <title>Test</title>
+      <link href="2021/02/11/test%20(1)/"/>
+      <url>2021/02/11/test%20(1)/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">fo cal : vnum1:i32,vnum2:i32 :</span><br><span class="line">    vnum1+vnum2</span><br><span class="line"></span><br><span class="line">fo main :</span><br><span class="line">    num:i32&#x3D;[]</span><br><span class="line">    ou &lt; &quot;Please input two num:&quot;</span><br><span class="line">    for index in 2 :</span><br><span class="line">        in &gt; num[index]</span><br><span class="line">    ou &lt; cal(num[0],num[2])</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Test</title>
       <link href="2021/02/11/test/"/>
       <url>2021/02/11/test/</url>
       
