@@ -1,5 +1,4 @@
-!![](res/logo.jpg)
-# Okita Language Programming
+# ![](res/logo.jpg) Okita Language Programming
 
 ```Okita
 fn main():
