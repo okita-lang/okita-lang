@@ -1,4 +1,4 @@
-# okita-lang
+# ![](res/logo.jpg)Okita Language Programming
 
 ```Okita
 fn main():
