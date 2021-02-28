@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'arvo';
-    src:url('/okita-lang/fonts/Arvo-Bold.ttf');
+    src:url('/fonts/Arvo-Bold.ttf');
 }
 html{
     font-family: 'arvo' !important;
