@@ -1,9 +1,9 @@
 # ![](res/logo.jpg) Okita Language Programming
 
-```Okita
-fn main():
-    a:i32 = 0
-    for i in 100:
-        a+=1
-    out < a
-```
+An open source general purely functional language that is striving to achieve both high performance and readability. 
+
+---
+
+### **License**
+
+[MIT License](https://github.com/alchepic/okita-lang/blob/main/LICENSE)
